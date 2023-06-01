@@ -1,0 +1,2 @@
+public class Uzduotis1 {
+}
