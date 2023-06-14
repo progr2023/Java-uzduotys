@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-uzduotys.iml" filepath="$PROJECT_DIR$/.idea/Java-uzduotys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pamoka22/Pamoka22.iml" filepath="$PROJECT_DIR$/Pamoka22/Pamoka22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pamoka22.3uzd/Pamoka22.3uzd.iml" filepath="$PROJECT_DIR$/Pamoka22.3uzd/Pamoka22.3uzd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pamoka22s/Pamoka22s.iml" filepath="$PROJECT_DIR$/Pamoka22s/Pamoka22s.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pamoka25/Pamoka25.iml" filepath="$PROJECT_DIR$/Pamoka25/Pamoka25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pamoka26/Pamoka26.iml" filepath="$PROJECT_DIR$/Pamoka26/Pamoka26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pamoka26a/Pamoka26a.iml" filepath="$PROJECT_DIR$/Pamoka26a/Pamoka26a.iml" />
+    </modules>
+  </component>
+</project>

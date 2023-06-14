@@ -5,6 +5,11 @@ public class Uzduotis1 {
         boolean b1 = kurisIlgesnis(zodis1, x1);
         System.out.println("b1 = " + b1);
 
+        String zodis2 = "ropė";
+        int x2 = 7;
+        boolean b2 = kurisIlgesnis(zodis2, x2);
+        System.out.println("b2 = " + b2);
+
 
 
     }
