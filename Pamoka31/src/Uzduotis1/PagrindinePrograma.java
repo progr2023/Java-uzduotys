@@ -1,10 +1,12 @@
 package Uzduotis1;
 
+import Uzduotis132.Apskritimas;
+
 public class PagrindinePrograma {
     public static void main(String[] args) {
-        Apskritimas a1 = new Apskritimas(5);
+        Uzduotis132.Apskritimas a1 = new Uzduotis132.Apskritimas(5);
 
-        Apskritimas a2 = new Apskritimas();
+        Uzduotis132.Apskritimas a2 = new Apskritimas();
         a2.spindulys = 12;
 
         System.out.println("a1 = " + a1);
